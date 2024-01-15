@@ -1,1 +1,2 @@
 @@||mgid.com^$important
+@@||admin.mgid.com^$important
